@@ -1,0 +1,47 @@
+2021-08-05 17:09:30,544 - 正在启动websocket服务器
+2021-08-05 17:09:30,573 - Using Log4J as the default logging framework
+2021-08-05 17:09:30,608 - -Dio.netty.eventLoopThreads: 8
+2021-08-05 17:09:30,686 - java.nio.Buffer.address: available
+2021-08-05 17:09:30,687 - sun.misc.Unsafe.theUnsafe: available
+2021-08-05 17:09:30,688 - sun.misc.Unsafe.copyMemory: available
+2021-08-05 17:09:30,688 - direct buffer constructor: available
+2021-08-05 17:09:30,689 - java.nio.Bits.unaligned: available, true
+2021-08-05 17:09:30,689 - java.nio.DirectByteBuffer.<init>(long, int): available
+2021-08-05 17:09:30,690 - java.nio.ByteBuffer.cleaner(): available
+2021-08-05 17:09:30,691 - Platform: Windows
+2021-08-05 17:09:30,692 - Java version: 8
+2021-08-05 17:09:30,692 - -Dio.netty.noUnsafe: false
+2021-08-05 17:09:30,692 - sun.misc.Unsafe: available
+2021-08-05 17:09:30,693 - -Dio.netty.noJavassist: false
+2021-08-05 17:09:30,693 - Javassist: unavailable
+2021-08-05 17:09:30,693 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2021-08-05 17:09:30,694 - -Dio.netty.tmpdir: C:\Users\gll\AppData\Local\Temp (java.io.tmpdir)
+2021-08-05 17:09:30,694 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2021-08-05 17:09:30,694 - -Dio.netty.noPreferDirect: false
+2021-08-05 17:09:30,694 - io.netty.maxDirectMemory: 3803185152 bytes
+2021-08-05 17:09:30,713 - -Dio.netty.noKeySetOptimization: false
+2021-08-05 17:09:30,713 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2021-08-05 17:09:30,715 - org.jctools-core.MpscChunkedArrayQueue: available
+2021-08-05 17:09:30,866 - -Dio.netty.processId: 11596 (auto-detected)
+2021-08-05 17:09:30,868 - -Djava.net.preferIPv4Stack: false
+2021-08-05 17:09:30,868 - -Djava.net.preferIPv6Addresses: false
+2021-08-05 17:09:30,982 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2021-08-05 17:09:30,983 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2021-08-05 17:09:31,267 - -Dio.netty.machineId: 30:9c:23:ff:fe:70:3f:6f (auto-detected)
+2021-08-05 17:09:31,268 - -Dio.netty.initialSeedUniquifier: 0xa228b66ca3edae52
+2021-08-05 17:09:31,288 - -Dio.netty.leakDetection.level: simple
+2021-08-05 17:09:31,289 - -Dio.netty.leakDetection.maxRecords: 4
+2021-08-05 17:09:31,314 - -Dio.netty.allocator.numHeapArenas: 8
+2021-08-05 17:09:31,315 - -Dio.netty.allocator.numDirectArenas: 8
+2021-08-05 17:09:31,315 - -Dio.netty.allocator.pageSize: 8192
+2021-08-05 17:09:31,315 - -Dio.netty.allocator.maxOrder: 11
+2021-08-05 17:09:31,315 - -Dio.netty.allocator.chunkSize: 16777216
+2021-08-05 17:09:31,318 - -Dio.netty.allocator.tinyCacheSize: 512
+2021-08-05 17:09:31,318 - -Dio.netty.allocator.smallCacheSize: 256
+2021-08-05 17:09:31,318 - -Dio.netty.allocator.normalCacheSize: 64
+2021-08-05 17:09:31,318 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2021-08-05 17:09:31,318 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2021-08-05 17:09:31,328 - -Dio.netty.allocator.type: pooled
+2021-08-05 17:09:31,328 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2021-08-05 17:09:31,328 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2021-08-05 17:09:31,364 - webSocket服务器启动成功：[id: 0xc51e426f, L:/0:0:0:0:0:0:0:0:8081]
